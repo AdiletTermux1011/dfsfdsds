@@ -1,0 +1,13 @@
+{
+  "name": "steam-guard-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that generates Steam Guard 2FA codes from .maFile",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node --watch bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}

@@ -1,0 +1,7 @@
+﻿.env
+node_modules
+data/
+*.log
+test-code.js
+check-api.js
+_payload.json
